@@ -7,3 +7,11 @@
 
 	background-color: honeydew;
 }
+
+#contact {
+	font-family: 'Lato', sans-serif;
+	margin: 5px 5px 5px 5px;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid black;
+	text-align: center
+}
